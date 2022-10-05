@@ -1,10 +1,7 @@
-//* Start From 
-Middleware 3:16
-
 Express Router
 Controller
-**Middleware Morgan Setup
-**MongoDB Connection Setup (Change MongoURI Link)
+Middleware Morgan Setup
+MongoDB Connection Setup
 **Models to be Create
 
 *For Development
