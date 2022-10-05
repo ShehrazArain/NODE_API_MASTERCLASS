@@ -1,0 +1,11 @@
+Express Router
+Controller
+Middleware Morgan Setup
+MongoDB Connection Setup (Change MongoURI Link)
+Models to be Create
+
+*For Development
+npm run dev
+
+*For Production 
+npm start
